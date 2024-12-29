@@ -12,7 +12,6 @@ Solutions are organized by contest sheets and training categories:
 ├── Sheet #1 (Data Types)
 ├── Sheet #2 (Loops)
 ├── Sheet #3 (Arrays)
-├── Sheet #4 (Strings)
 ├── Sheet #5 (Functions)
 └── Sheet #6 (Math)
 ```
